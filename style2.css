@@ -1,0 +1,52 @@
+p{color:rgb(66, 63, 58)}
+body{background-color: rgb(124, 134, 134);}
+h1{color: rgb(20, 19, 18);}
+
+h1
+
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p
+
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h1
+
+{
+    font-weight: 400;
+}
+
+p
+
+{
+    font-weight: 300;
+}
+
+div
+
+{
+    max-width: 900px;
+}
+
+body
+
+{
+    font-size: 15px;
+}
+
+h1
+
+{
+    font-size: 50px;
+}
+
+img
+
+{
+    width:390px;
+}
